@@ -1,4 +1,4 @@
-# create voirtual environment
+# create virtual environment
     # virtualenv ~/.venv
     # source ~/.venv/bin/activate
 
