@@ -1,3 +1,7 @@
+# create voirtual environment
+    # virtualenv ~/.venv
+    # source ~/.venv/bin/activate
+
 # functions-from-zero
 live training
 
