@@ -1,6 +1,8 @@
 # create virtual environment
     # virtualenv ~/.venv
     # source ~/.venv/bin/activate
+    # vim ~/.bashrc
+    # source ~/.venv/bin/activate
 
 # functions-from-zero
 live training
